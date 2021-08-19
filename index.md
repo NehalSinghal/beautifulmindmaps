@@ -174,8 +174,8 @@ https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 Following are **links to my Mind Maps** of international project for artificial intelligence language virtual machine framework called **PicoLisp**.
 
-1. ![Beautiful and Lucid Mind Maps](https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps)
-2. ![Pilcon Mind Maps](https://picolisp.com/wiki/?pilcon-mindmaps)
+1. [Beautiful and Lucid Mind Maps](https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps)
+2. [Pilcon Mind Maps](https://picolisp.com/wiki/?pilcon-mindmaps)
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
