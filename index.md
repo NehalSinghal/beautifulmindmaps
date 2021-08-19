@@ -21,25 +21,19 @@ Knowledge Process (KP) Management using Mind Maps
 
 - [x] MM to illustrate power of VF in MM. (_Reference_: _Visual Facilitation Cookbook_)
 
-![Vfc](img/Vfc.jpg)
+![Vfc](Vfc.jpg)
 
+![Vfc-1](Vfc-1.jpg)
 
+![Vfc-2](Vfc-2.jpg)
 
-![Vfc-1](img/Vfc-1.jpg)
+![Vfc-3](Vfc-3.jpg)
 
+![Vfc-4](Vfc-4.jpg)
 
+![Vfc-5](Vfc-5.jpg)
 
-![Vfc-2](img/Vfc-2.jpg)
-
-
-
-![Vfc-3](img/Vfc-3.jpg)
-
-![Vfc-4](img/Vfc-4.jpg)
-
-![Vfc-5](img/Vfc-5.jpg)
-
-![Vfc-6](img/Vfc-6.jpg)
+![Vfc-6](Vfc-6.jpg)
 
 
 ## Better Understanding through Mind Mapping
@@ -186,5 +180,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ## SAMADHAN MM 
 
-MM of website -> Links section![Samadhan LINKS](img/rsmm.jpg)
+MM of website -> Links section!
+
+[Samadhan LINKS](rsmm.jpg)
 
