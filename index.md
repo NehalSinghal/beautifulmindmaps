@@ -182,5 +182,5 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 MM of website -> Links section!
 
-[Samadhan LINKS](rsmm.jpg)
+[rsmm](rsmm.jpg)
 
