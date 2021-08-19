@@ -169,7 +169,8 @@ Just as in FMPD mentioned elsewhere, innovative use of MM by us in the field of 
 
 PicoLisp is the marvel dialect of Lisp, the primary language for Artificial Intelligence (AI).
 
-Lisp is the most powerful computer language developed at Stanford University, USA by John McCarthy  who co-authored the document that coined the term AI. [https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist)]
+Lisp is the most powerful computer language developed at Stanford University, USA by John McCarthy  who co-authored the document that coined the term AI. [https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist)](
+https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 Following are **links to my Mind Maps** of international project for artificial intelligence language virtual machine framework called **PicoLisp**.
 
