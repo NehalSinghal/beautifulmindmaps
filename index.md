@@ -182,5 +182,5 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 MM of website -> Links section!
 
-[rsmm](rsmm.jpg)
+![rsmm](rsmm.jpg)
 
