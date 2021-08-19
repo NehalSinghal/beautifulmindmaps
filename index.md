@@ -23,9 +23,15 @@ Knowledge Process (KP) Management using Mind Maps
 
 ![Vfc](img/Vfc.jpg)
 
+
+
 ![Vfc-1](img/Vfc-1.jpg)
 
+
+
 ![Vfc-2](img/Vfc-2.jpg)
+
+
 
 ![Vfc-3](img/Vfc-3.jpg)
 
