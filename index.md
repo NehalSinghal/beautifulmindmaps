@@ -2,24 +2,25 @@
 
 _"Beauty reflects Understanding"_
 
-Knowledge Process (KP) Management using Mind Maps 
+Knowledge Process Management using Mind Maps 
 
 
-<span style='color:#0000ff;'>**Unified view**</span> **of** <span style='color:#0000ff;'>**Aesthetics**</span> **and** <span style='color:#0000ff;'>**Logic**</span> **of** <span style='color:#ff0000;'>**Art**</span> **and** <span style='color:#00ff00;'>**Science**</span>
+<span style='color:#0000ff;'>**Unified view**</span> **of** <span style='color:#0000ff;'>**Aesthetics**</span> **&** <span style='color:#0000ff;'>**Logic**</span> **and of** <span style='color:#ff0000;'>**Art**</span> **&** <span style='color:#1f7c00;'>**Science**</span>
 
-## Beauty is Understanding
+## Beauty _is_ Understanding
 
 - Beauty aids absorption. 
 - Knowledge at a glance. 
 - Simplicity, Symmetry and Balance as three outcomes and pillars of Mind Mapping. 
 
-## Visual Facilitation (VF) as presentation instance of Mind Mapping (MM)
+## Visual Facilitation as presentation instance of Mind Mapping
 
 - To facilitate understanding. 
 - Use of primary shapes, arrows, circle, triangle and square etc.
 - Use of Stick diagrams for living shapes, such as trees, plants, humans, animals etc.
 
-- [x] MM to illustrate power of VF in MM. (_Reference_: _Visual Facilitation Cookbook_)
+- [x] Mind Maps to illustrate power of Visual Facilitation in Mind Mapping. 
+- [x] (_Reference_: [_Visual Facilitation Cookbook_](https://www.salto-youth.net/downloads/toolbox_tool_download-file-1430/VF-cookbook-web.pdf))
 
 ![Vfc](Vfc.jpg)
 
@@ -38,11 +39,11 @@ Knowledge Process (KP) Management using Mind Maps
 
 ## Better Understanding through Mind Mapping
 
-As discovered in our successful flagship Financial Modelling and Product Development (FMPD) research project, **Understanding** is the work of brain not of tools. 
+As discovered in our successful flagship Financial Modelling and Product Development research project, **Understanding** is the work of brain not of tools. 
 
-MM in this aspect is a proven technique, in our experience that uses KP as development stages to reach right conclusion. 
+Mind Mapping in this aspect is a proven technique, in our experience that uses Knowledge Process as development stages to reach right conclusion. 
 
-## Building UNDERSTANDING and INSIGHTS with MM 
+## Build UNDERSTANDING and INSIGHTS with Mind Mapping 
 
 1. Succinct knowledge. Filtering sentences and writing keywords. Dates, days, key persons, places etc. 
     - Big to small. 
@@ -64,14 +65,14 @@ MM in this aspect is a proven technique, in our experience that uses KP as devel
     - Information itself is not knowledge. Knowledge is filtered, understood and well presented information.
 4. Building own understanding is not possible via devices (Automation). Understanding building is required at all instances by everyone. It is not specific to any domain. 
     - Understanding process is not mechanical. It cannot be automated. 
-    - MM building can be automated but not thinking/understanding by human brain.
-    - MM aid enhanced depth building as INSIGHTS in any domain.
+    - Mind Mapping can be automated but not thinking/understanding by human brain.
+    - Mind Maps aid enhanced depth building as INSIGHTS in any domain.
 
 ## NO MOTIVATION, NO MARKETING
 
 - `Motivating people is an external aim. We rather focus on internal self as per Bhagavat Gita 5.11.`
 
-People may take notice of Mind Maps (MM) incidentally and take initiative to learn. This is uncertain. Therefore we don't aim for it.
+People may take notice of Mind Maps incidentally and take initiative to learn. This is uncertain. Therefore we don't aim for it.
 
 This approach is similar to our time tested **financial risk management**, where we _don't invest_ in _uncertainty_.
 
@@ -88,22 +89,22 @@ Our path breaking financial investment model development research is based on in
 
 50-50 Profit Sharing as an academic research project of financial modelling illustrates that "Value motivates automatically". It eliminates investing in uncertainty between risk balanced equal partners. 
 
-_Financial Modelling and Product Development (FMPD) research project is an example of successful use of innovative Mind Mapping._
+_Financial Modelling and Product Development  research project is an example of successful use of innovative Mind Mapping._
 
 ### == OUR ORIGINAL UNDERSTANDING AND INSIGHTS ==
 
 1. Mind Mapping over the web in various books and journals has been only highlighted as a tool for representation with fancy diagrams and colors, whereas our originality in _understanding_ them and letting our work/knowledge _evolve_ has been due to our using it as an analysis tool for aiding evolution of our own understanding, both of Mind Mapping as an indispensable tool and the specific project domain.
- 2. In our FMPD project, we used MM as knowledge development tool to collect, harness, filter ideas, then letting ideas fill several sheets.
+ 2. In our Financial Modelling and Product Development research project, we used Mind Mapping as knowledge development tool to collect, harness, filter ideas, then letting ideas fill several sheets.
  3. Later, once we reached conclusion in thinking about modelling and product development we let all charts ideation **combine** into a big chart. 
- 4. Ofcourse all of other MM and this big one chart looked messy. This depicted **complexity** reflecting the need for clear understanding. 
+ 4. Ofcourse all of other Mind Maps and this big one chart looked messy. This depicted **complexity** reflecting the need for clear understanding. 
  5. One important point that emerges is that, filtering mechanism is an internal process, here the Central Processing Unit (CPU) is **human brain**. 
  - Humans haven't been able to develop a machine that can think and understand. 
  - Devices only compute.
- -  MM are essentially "Programs and Data" operating in resonance with human brain. 
- 6. However this process of MM Development is all about emerging _beauty as understanding_ using basic shapes, arrows, pens, highlighters.
+ -  Mind Maps are essentially "Programs and Data" operating in resonance with human brain. 
+ 6. However this process of Mind Map Development is all about emerging _beauty as understanding_ using basic shapes, arrows, pens, highlighters.
  - There's not much on the hardware side if one sees it closely! 
  - It's all about internal **thinking** process and it's evolution that needs understanding, and the understanding that gets _developed_ as a result. 
- 7. In our Financial Modelling and Product Development (FMPD) research project, MM was an _analytical tool_ from beginning till end. 
+ 7. In our Financial Modelling and Product Development research project, Mind Mapping was an _analytical tool_ from beginning till end. 
  8. Sixty A4 sized sheets were converted into one big chart. This chart was then factored into categories like - 
  - Types of Markets,
  - Trading System, 
@@ -149,7 +150,7 @@ _Financial Modelling and Product Development (FMPD) research project is an examp
 20. Money is a serious matter. 
 - Markets are not for everyone. 
 - Investment needs right psychological parameters. 
-21. Over and above, all this wasn't possible if every step wasn't clearly always jotted and written down in form of Mind Map (MM).
+21. Over and above, all this wasn't possible if every step wasn't clearly always jotted and written down in form of Mind Map.
 - **Analysis** was only possible all throughout - 
     - Ideation, 
     - Product Development, 
@@ -157,7 +158,7 @@ _Financial Modelling and Product Development (FMPD) research project is an examp
     - Social Media Campaign, 
     - Product Improvement, 
     - Name Conventions' Development via Mind Mapping technique as tool for **UNDERSTANDING AND CAPACITY BUILDING**.
--  Last but not the least, biggest success of FMPD was gaining **insights** (internal) -
+22. Last but not the least, biggest success of Financial Modelling and Product Development research project was gaining **insights** (internal) -
     
          i. Finance with investors involves seemingly impossible work of managing the investment and the impossible work of managing the investors.
      
@@ -165,23 +166,20 @@ _Financial Modelling and Product Development (FMPD) research project is an examp
 
 ## ARTIFICIAL INTELLIGENCE VIRTUAL MACHINE FRAMEWORK INTERNATIONAL PROJECT
 
-Just as in FMPD mentioned elsewhere, innovative use of MM by us in the field of Lisp education and use are visible on web which have received wide international appreciation. 
+Just as in Financial Modelling Product Development mentioned elsewhere, innovative use of Mind Mapping by us in the field of Lisp education and use are visible on web which have received wide international appreciation. 
 
-PicoLisp is the marvel dialect of Lisp, the primary language for Artificial Intelligence (AI).
+PicoLisp is the marvel dialect of Lisp, the primary language for Artificial Intelligence.
 
-Lisp is the most powerful computer language developed at Stanford University, USA by John McCarthy  who co-authored the document that coined the term AI. [John McCarthy Wikipedia Reference](
-https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
+Lisp is the most powerful computer language developed at Stanford University, USA by John McCarthy  who co-authored the document that coined the term Artificial Intelligence. https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
 
 Following are **links to my Mind Maps** of international project for artificial intelligence language virtual machine framework called **PicoLisp**.
 
-1. [Beautiful and Lucid Mind Maps](https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps)
-2. [Pilcon Mind Maps](https://picolisp.com/wiki/?pilcon-mindmaps)
+1. https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps
+2. https://picolisp.com/wiki/?pilcon-mindmaps
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
-## SAMADHAN MM 
+## SAMADHAN Mind Map
 
-MM of website -> Links section!
-
-![rsmm](rsmm.jpg)
-
+Mind Map of website -> Links section!
+![Samadhan LINKS](rsmm.jpg)
