@@ -20,7 +20,7 @@ Knowledge Process Management using Mind Maps
 - Use of Stick diagrams for living shapes, such as trees, plants, humans, animals etc.
 
 - [x] Mind Maps to illustrate power of Visual Facilitation in Mind Mapping. 
-- [x] (_Reference_: [_Visual Facilitation Cookbook_](https://www.salto-youth.net/downloads/toolbox_tool_download-file-1430/VF-cookbook-web.pdf))
+- [x] _Reference_: [_Visual Facilitation Cookbook_](https://www.salto-youth.net/downloads/toolbox_tool_download-file-1430/VF-cookbook-web.pdf)
 
 ![Vfc](Vfc.jpg)
 
