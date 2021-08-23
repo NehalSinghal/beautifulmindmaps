@@ -63,12 +63,12 @@ Mind Mapping in this aspect is a proven technique, in our experience that uses K
     - Complex is undigested or not yet ready. 
     - Needs thinking and further processing. 
     - Information itself is not knowledge. Knowledge is filtered, understood and well presented information.
-4. Building own understanding is not possible via devices (Automation). Understanding building is required at all instances by everyone. It is not specific to any domain. 
+4. Building own understanding is not possible via devices (Automation). Understanding build-up is required at all instances by everyone. It is not specific to any domain. 
     - Understanding process is not mechanical. It cannot be automated. 
     - Mind Mapping can be automated but not thinking/understanding by human brain.
     - Mind Maps aid enhanced depth building as INSIGHTS in any domain.
 
-## NO MOTIVATION, NO MARKETING
+## VALUE MOTIVATES DIRECTLY
 
 - `Motivating people is an external aim. We rather focus on internal self as per Bhagavat Gita 5.11.`
 
