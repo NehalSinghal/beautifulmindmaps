@@ -181,5 +181,8 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ## SAMADHAN Mind Map
 
+- Dehradun based organisation with global reach, chaired by women safety activist Advocate Renu D Singh. 
+- Committed to Gender Justice and Human Rights. 
+
 Mind Map of website -> Links section!
 ![Samadhan LINKS](rsmm.jpg)
