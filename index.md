@@ -205,6 +205,9 @@ Mind Map of website -> Links section!
 
 Let us prove this via an example :- 
 
+`Original`
+![Original](kp-0.jpg)
+
 `Copy of A Mind Map First Attempt`
 ![Copy of A Mind Map First Attempt](kp-1.jpg)
 
