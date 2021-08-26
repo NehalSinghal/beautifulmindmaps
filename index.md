@@ -206,13 +206,13 @@ Mind Map of website -> Links section!
 Let us prove this via an example :- 
 
 `Copy of A Mind Map First Attempt`
-![Copy of A Mind Map First Attempt](img/kp-1.jpg)
+![Copy of A Mind Map First Attempt](kp-1.jpg)
 
 `Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2`
-![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2 ](img/kp-2.jpg)
+![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2 ](kp-2.jpg)
 
 `Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3`
-![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3](img/kp-3.jpg)
+![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3](kp-3.jpg)
 
 `Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity`
-![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](img/kp-4.jpg)
+![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](kp-4.jpg)
