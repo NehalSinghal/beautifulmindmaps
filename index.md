@@ -186,3 +186,33 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 Mind Map of website -> Links section!
 ![Samadhan LINKS](rsmm.jpg)
+
+## Why Mind Maps cannot be copied? 
+
+1. Creativity is original.
+    - Comes from inside to outside. 
+    - Flow of insights is natural process. 
+    - Learning is self journey. 
+    - Joy is own. Joy is inside. Self propelling wave 🌊. 
+2. Copycats cannot develop own Mind Mapping technique. 
+    - No innovation. 
+    - No uniqueness. 
+    - No real development. 
+    - No insight. 
+3. Role of **facilitator** is only to initiate. 
+    - After that learner/researcher/experimenter is on own journey. 
+    - Mind Mapping leads to freedom and independence of learning, invention (as Knowledge Process stages) and discovery (own insights over time with experience). 
+
+Let us prove this via an example :- 
+
+`Copy of A Mind Map First Attempt`
+![Copy of A Mind Map First Attempt](img/kp-1.jpg)
+
+`Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2`
+![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2 ](img/kp-2.jpg)
+
+`Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3`
+![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3](img/kp-3.jpg)
+
+`Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity`
+![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](img/kp-4.jpg)
