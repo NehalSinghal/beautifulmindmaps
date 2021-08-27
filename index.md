@@ -189,15 +189,15 @@ Mind Map of website -> Links section!
 
 **Meeting with Adv Renu Singh ji on 2021-08-25 Mind Maps**
 
-![rsf-1](img/rsf-1.jpg)
+![rsf-1](rsf-1.jpg)
 
-![rsf-2](img/rsf-2.jpg)
+![rsf-2](rsf-2.jpg)
 
-![rsf-3](img/rsf-3.jpg)
+![rsf-3](rsf-3.jpg)
 
-![rsf-4](img/rsf-4.jpg)
+![rsf-4](rsf-4.jpg)
 
-![rsf-5](img/rsf-5.jpg)
+![rsf-5](rsf-5.jpg)
 
 ## Why Mind Maps cannot be copied? 
 
