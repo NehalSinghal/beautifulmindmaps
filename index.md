@@ -194,7 +194,7 @@ Mind Map of website -> Links section!
 3. Beauty is resonance with self. When one understands one sees beauty in it. Both beauty and understanding are subjective, they depend on the person. Understanding depends on mind, beauty lies in the eyes of beholder.
 4. Role of **facilitator** is only to initiate. 
     
-Let us prove this via an example :- 
+**Let us see this in the following example:** 
 
 `Original`
 ![Original](kp-0.jpg)
