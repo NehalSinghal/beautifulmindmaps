@@ -189,20 +189,11 @@ Mind Map of website -> Links section!
 
 ## Why Mind Maps cannot be copied? 
 
-1. Creativity is original.
-    - Comes from inside to outside. 
-    - Flow of insights is natural process. 
-    - Learning is self journey. 
-    - Joy is own. Joy is inside. Self propelling wave 🌊. 
-2. Copycats cannot develop own Mind Mapping technique. 
-    - No innovation. 
-    - No uniqueness. 
-    - No real development. 
-    - No insight. 
-3. Role of **facilitator** is only to initiate. 
-    - After that learner/researcher/experimenter is on own journey. 
-    - Mind Mapping leads to freedom and independence of learning, invention (as Knowledge Process stages) and discovery (own insights over time with experience). 
-
+1. Non transferability of experience. Because copied mind maps are not beautiful.
+2. Inevitability of experiment. Because evolution of understanding, hence that of mind map is unpredictable.
+3. Beauty is resonance with self. When one understands one sees beauty in it. Both beauty and understanding are subjective, they depend on the person. Understanding depends on mind, beauty lies in the eyes of beholder.
+4. Role of **facilitator** is only to initiate. 
+    
 Let us prove this via an example :- 
 
 `Original`
