@@ -187,7 +187,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 Mind Map of website -> Links section!
 ![Samadhan LINKS](rsmm.jpg)
 
-**Meeting with Adv Renu Singh ji on 2021-08-25 Mind Maps**
+**Mind Maps of Meeting with Adv Renu Singh ji on 2021-08-25**
 
 ![rsf-1](rsf-1.jpg)
 
