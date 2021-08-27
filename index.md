@@ -34,7 +34,7 @@ Knowledge Process Management using Mind Maps
 
 ![Vfc-5](Vfc-5.jpg)
 
-![Vfc-6](Vfc-6.jpg)
+![Vfc-6](vfc-6.jpg)
 
 
 ## Better Understanding through Mind Mapping
