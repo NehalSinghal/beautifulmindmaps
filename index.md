@@ -170,12 +170,12 @@ Just as in Financial Modelling Product Development mentioned elsewhere, innovati
 
 PicoLisp is the marvel dialect of Lisp, the primary language for Artificial Intelligence.
 
-Lisp is the most powerful computer language developed at Stanford University, USA by John McCarthy  who co-authored the document that coined the term Artificial Intelligence. https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
+Lisp is the most powerful computer language developed at Stanford University, USA by John McCarthy  who co-authored the document that coined the term Artificial Intelligence. [John McCarthy Wikipedia Reference](https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 Following are **links to my Mind Maps** of international project for artificial intelligence language virtual machine framework called **PicoLisp**.
 
-1. https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps
-2. https://picolisp.com/wiki/?pilcon-mindmaps
+1. [Beautiful and Lucid Mind Maps](https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps)
+2. [Pilcon Mind Maps](https://picolisp.com/wiki/?pilcon-mindmaps)
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
