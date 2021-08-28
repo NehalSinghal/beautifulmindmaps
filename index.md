@@ -222,3 +222,34 @@ Mind Map of website -> Links section!
 
 `Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity`
 ![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](kp-4.jpg)
+
+## Mind Mapping for Individual Capacity Enhancement
+
+### How can we also present an assessment report/index showing strengths, weakness and special trends of a human mind through this mapping?
+
+1. To bring objectivity to an inherently subjective domain of Mind Mapping. No benchmarking possible because of inherent subjectivity.
+2. Growth of individual mind can be measured individually, in terms of Mind Map quality over a period of time. 
+3. Analysis will be subjective. 
+    - It will be like deciding in an Art competition. 
+    - How can Art be seen quantitatively? 
+4. Graphology and other such analyses are some ways to analyse mind of an individual. Mind Map based analysis can be similar.
+5. Two types of analysis - Comparative for collective and Evolution for Single Individual. 
+    - Comparative is for large number of people. Example: One incident being reported by different persons, people will make maps differently. Centre, branches, leaves will contain different information revealing valuable insights about those who made the mind maps.
+    - Single Individual: Evolution. Initial. Over a period of time. 
+6. However a convention can be developed like Visual Facilitation Cookbook or similar handbooks for people to bring uniformity for benchmarking for comparison, such as capital letter for emphasis, bold and italics etc.. This will be easy for comparison. 
+
+![bmmi](bmmi.jpg)
+
+
+## Mind Mapping for Organizational Capacity Enhancement
+
+### How/what way one can use this mapping for individual/organizational development/capacity building?
+
+1. Organization can be seen in two different levels, Individual and Collective. Individual capacity enhancement is covered above. 
+2. Collective capacity enhancement by building and strengthening of team spirit. 
+    - Mind Mapping can be used as a tool for collective understanding as collective insights emerge. 
+    - Emergence of Collective Understanding goes in tandem with building of Team spirit. 
+    - Large Mind Map Chart can be made by a team. This calls for synergy and coordination at various levels among team members.
+3. If a team can make a good mind map together, they can work well together.
+
+![bmmc](bmmc.jpg)
