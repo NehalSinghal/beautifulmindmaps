@@ -225,7 +225,7 @@ Mind Map of website -> Links section!
 
 ## Mind Mapping for Individual Capacity Enhancement
 
-### How can we also present an assessment report/index showing strengths, weakness and special trends of a human mind through this mapping?
+### How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?
 
 1. To bring objectivity to an inherently subjective domain of Mind Mapping. No benchmarking possible because of inherent subjectivity.
 2. Growth of individual mind can be measured individually, in terms of Mind Map quality over a period of time. 
