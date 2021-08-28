@@ -199,30 +199,6 @@ Mind Map of website -> Links section!
 
 ![rsf-5](rsf-5.jpg)
 
-## Why Mind Maps cannot be copied? 
-
-1. Non transferability of experience. Because copied mind maps are not beautiful.
-2. Inevitability of experiment. Because evolution of understanding, hence that of mind map is unpredictable.
-3. Beauty is resonance with self. When one understands one sees beauty in it. Both beauty and understanding are subjective, they depend on the person. Understanding depends on mind, beauty lies in the eyes of beholder.
-4. Role of **facilitator** is only to initiate. 
-    
-**Let us see this in the following example:** 
-
-`Original`
-![Original](kp-0.jpg)
-
-`Copy of A Mind Map First Attempt`
-![Copy of A Mind Map First Attempt](kp-1.jpg)
-
-`Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2`
-![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2 ](kp-2.jpg)
-
-`Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3`
-![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3](kp-3.jpg)
-
-`Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity`
-![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](kp-4.jpg)
-
 ## Mind Mapping for Individual Capacity Enhancement
 
 ### How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?
@@ -233,10 +209,10 @@ Mind Map of website -> Links section!
     - It will be like deciding in an Art competition. 
     - How can Art be seen quantitatively? 
 4. Graphology and other such analyses are some ways to analyse mind of an individual. Mind Map based analysis can be similar.
-5. Two types of analysis - Comparative for collective and Evolution for Single Individual. 
+5. Two types of analyses - **Comparative for collective** and Evolution for **Single Individual**. 
     - Comparative is for large number of people. Example: One incident being reported by different persons, people will make maps differently. Centre, branches, leaves will contain different information revealing valuable insights about those who made the mind maps.
     - Single Individual: Evolution. Initial. Over a period of time. 
-6. However a convention can be developed like Visual Facilitation Cookbook or similar handbooks for people to bring uniformity for benchmarking for comparison, such as capital letter for emphasis, bold and italics etc.. This will be easy for comparison. 
+6. However a convention can be developed like Visual Facilitation Cookbook or similar handbooks for **uniformity, benchmarking and comparison**, such as capital letter for emphasis, bold and italics etc.. This will be easy for comparison. 
 
 ![bmmi](bmmi.jpg)
 
@@ -250,6 +226,32 @@ Mind Map of website -> Links section!
     - Mind Mapping can be used as a tool for collective understanding as collective insights emerge. 
     - Emergence of Collective Understanding goes in tandem with building of Team spirit. 
     - Large Mind Map Chart can be made by a team. This calls for synergy and coordination at various levels among team members.
-3. If a team can make a good mind map together, they can work well together.
+3. **If a team can make a good mind map together, they can work well together.**
 
 ![bmmc](bmmc.jpg)
+
+## Why Mind Maps cannot be copied? 
+
+1. **Non transferability of experience.** Because copied mind maps are not beautiful.
+2. **Necessity of experiment.** Because evolution of understanding, hence that of mind map is unpredictable.
+3. **Beauty is resonance with self.** When one understands one sees beauty in it. Both beauty and understanding are subjective, they depend on the person. Understanding depends on mind, beauty lies in the eyes of beholder.
+4. **Role of facilitator is only to initiate.** 
+    
+**Let us see this in the following example:** 
+
+`Original`
+![Original](kp-0.jpg)
+
+`Copy - First Attempt`
+![Copy of A Mind Map First Attempt](kp-1.jpg)
+
+`Copy - Knowledge Process in Mind Mapping Attempt 2`
+![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2 ](kp-2.jpg)
+
+`Copy - Knowledge Process in Mind Mapping Attempt 3`
+![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3](kp-3.jpg)
+
+`Knowledge Process in Mind Mapping Attempt 4, **NO COPY**, Own Creativity`
+![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](kp-4.jpg)
+
+
