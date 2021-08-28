@@ -204,7 +204,7 @@ Mind Map of website -> Links section!
 ### How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?
 
 1. To bring objectivity to an inherently subjective domain of Mind Mapping. No benchmarking possible because of inherent subjectivity.
-2. Growth of individual mind can be measured individually, in terms of Mind Map quality over a period of time. 
+2. Growth of mind can be measured individually, in terms of evolution of Mind Map quality over a period of time. 
 3. Analysis will be subjective. 
     - It will be like deciding in an Art competition. 
     - How can Art be seen quantitatively? 
