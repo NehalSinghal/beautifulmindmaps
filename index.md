@@ -223,9 +223,9 @@ Mind Map of website -> Links section!
 
 1. Organization can be seen in two different levels, Individual and Collective. Individual capacity enhancement is covered above. 
 2. Collective capacity enhancement by building and strengthening of team spirit. 
-    - Mind Mapping can be used as a tool for collective understanding as collective insights emerge. 
-    - Emergence of Collective Understanding goes in tandem with building of Team spirit. 
-    - Large Mind Map Chart can be made by a team. This calls for synergy and coordination at various levels among team members.
+    - Mind Mapping can be used as a tool for collective understanding as **collective insights** emerge. 
+    - **Emergence of Collective Understanding** goes in tandem with building of Team spirit. 
+    - **Large Mind Map Chart** can be made by a team. This calls for synergy and coordination at various levels among team members.
 3. **If a team can make a good mind map together, they can work well together.**
 
 ![bmmc](bmmc.jpg)
