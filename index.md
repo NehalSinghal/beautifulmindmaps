@@ -136,7 +136,7 @@ _Financial Modelling and Product Development  research project is an example of 
 - We didn't even know who all were seeing! 
 - This was indeed magical as participants participated fully as they didn't have to indulge in revealing identity or fill any web forms to even view trades. 
 - So a fairly **transparent** system! Thus, **trusted**. 
-- Thus, files and trades were **immutable** ! Since we couldn't change files we also couldn't change trades once placed. 
+- Thus, files and trades were **immutable**! Since we couldn't change files we also couldn't change trades once placed. 
 -  Immutability ensured genuineness of trades published in realtime.
 15. While, academically PROFITCHAIN received far and wide appreciation, it also brought in focus the other side of  **human psychology** that looks for _exploiting_ others, either as service provider or client. 
 16. Investor clients **primarily** didn't follow the plan. Reason, ofcourse **lack of TRUST** despite great verified profitable performance.
