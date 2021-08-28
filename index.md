@@ -242,16 +242,16 @@ Mind Map of website -> Links section!
 `Original`
 ![Original](kp-0.jpg)
 
-`Copy - First Attempt`
+`Copied - First Attempt`
 ![Copy of A Mind Map First Attempt](kp-1.jpg)
 
-`Copy - Knowledge Process in Mind Mapping Attempt 2`
+`Copied - Knowledge Process in Mind Mapping Attempt 2`
 ![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 2 ](kp-2.jpg)
 
-`Copy - Knowledge Process in Mind Mapping Attempt 3`
+`Copied - Knowledge Process in Mind Mapping Attempt 3`
 ![Copy of Mind Map of Knowledge Process in Mind Mapping Attempt 3](kp-3.jpg)
 
-`Knowledge Process in Mind Mapping Attempt 4, **NO COPY**, Own Creativity`
+`Knowledge Process in Mind Mapping Attempt 4, NO COPY, Own Creativity`
 ![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](kp-4.jpg)
 
 
