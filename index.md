@@ -212,7 +212,7 @@ Mind Map of website -> Links section!
 5. Two types of analyses - **Comparative for collective** and Evolution for **Single Individual**. 
     - Comparative is for large number of people. Example: One incident being reported by different persons, people will make maps differently. Centre, branches, leaves will contain different information revealing valuable insights about those who made the mind maps.
     - Single Individual: Evolution. Initial. Over a period of time. 
-6. However a convention can be developed like Visual Facilitation Cookbook or similar handbooks for **uniformity, benchmarking and comparison**, such as capital letter for emphasis, bold and italics etc.. This will be easy for comparison. 
+6. However a convention can be developed like Visual Facilitation Cookbook or similar handbooks for **uniformity, benchmarking and comparison**, such as capital letter for emphasis, bold and italics etc.. This will facilitate comparison. 
 
 ![bmmi](bmmi.jpg)
 
