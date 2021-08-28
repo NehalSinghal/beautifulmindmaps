@@ -179,7 +179,7 @@ Following are **links to my Mind Maps** of international project for artificial 
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
-## SAMADHAN Mind Map
+## SAMADHAN Mind Maps
 
 - Dehradun based organisation with global reach, chaired by women safety activist Advocate Renu D Singh. 
 - Committed to Gender Justice and Human Rights. 
