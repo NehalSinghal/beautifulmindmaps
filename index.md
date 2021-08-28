@@ -1,3 +1,23 @@
+<!--ts-->
+* [<strong>Beautiful Mind Maps</strong>](#beautiful-mind-maps)
+   * [Beauty <em>is</em> Understanding](#beauty-is-understanding)
+   * [Visual Facilitation as presentation instance of Mind Mapping](#visual-facilitation-as-presentation-instance-of-mind-mapping)
+   * [Better Understanding through Mind Mapping](#better-understanding-through-mind-mapping)
+   * [Build UNDERSTANDING and INSIGHTS with Mind Mapping](#build-understanding-and-insights-with-mind-mapping)
+   * [VALUE MOTIVATES DIRECTLY](#value-motivates-directly)
+   * [50-50 PROFIT SHARING INVESTMENT MODEL: A Case Study](#50-50-profit-sharing-investment-model-a-case-study)
+      * [== OUR ORIGINAL UNDERSTANDING AND INSIGHTS ==](#-our-original-understanding-and-insights-)
+   * [ARTIFICIAL INTELLIGENCE VIRTUAL MACHINE FRAMEWORK INTERNATIONAL PROJECT](#artificial-intelligence-virtual-machine-framework-international-project)
+   * [SAMADHAN Mind Maps](#samadhan-mind-maps)
+   * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
+      * [How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?](#how-can-we-also-present-an-assessment-reportindex-showing-strengths-weaknesses-and-special-trends-of-a-human-mind-through-this-mapping)
+   * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
+      * [How/what way one can use this mapping for individual/organizational development/capacity building?](#howwhat-way-one-can-use-this-mapping-for-individualorganizational-developmentcapacity-building)
+   * [Why Mind Maps cannot be copied?](#why-mind-maps-cannot-be-copied)
+
+<!-- Added by: guest, at: Sat Aug 28 18:28:28 IST 2021 -->
+
+<!--te-->
 # **Beautiful Mind Maps**
 
 _"Beauty reflects Understanding"_
