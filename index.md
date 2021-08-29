@@ -143,8 +143,8 @@ _Financial Modelling and Product Development  research project is an example of 
  - No verbosity. 
  - Just short and lucid invitation in form of two pages. 
  - Even the tag names evolved as we finalized product over the days. 
-11. This financial project was matched the _public ledger verification design_ postulates of **BLOCKCHAIN** in concept, its four pillars being - Distributed, Immutable, Encrypted, Transparent/Trusted (**DIET**). 
-- Profitchain website showed trades under these fundamentals. 
+11. This financial project matched the _public ledger verification design_ postulates of **BLOCKCHAIN** in concept, its four pillars being - Distributed, Immutable, Encrypted, Transparent/Trusted (**DIET**). 
+- The website showed trades under these fundamentals. 
 12. Lot of viewers, investors, traders joined whatsapp groups, telegram channel (even saw trades on instagram stories!) and stayed, due to **profitable** trades on Nifty Options and USDINR Forex Options on NSE using our self developed trading system. 
 13. Trades appeared in real time but they could only be opened using the daily password once the trading strategy was implemented by eligible partners. 
 - Publishing in realtime showcased that trades were genuine. 
@@ -158,7 +158,7 @@ _Financial Modelling and Product Development  research project is an example of 
 - So a fairly **transparent** system! Thus, **trusted**. 
 - Thus, files and trades were **immutable**! Since we couldn't change files we also couldn't change trades once placed. 
 -  Immutability ensured genuineness of trades published in realtime.
-15. While, academically PROFITCHAIN received far and wide appreciation, it also brought in focus the other side of  **human psychology** that looks for _exploiting_ others, either as service provider or client. 
+15. While, academically it received far and wide appreciation, it also brought in focus the other side of  **human psychology** that looks for _exploiting_ others, either as service provider or client. 
 16. Investor clients **primarily** didn't follow the plan. Reason, ofcourse **lack of TRUST** despite great verified profitable performance.
 - They always attempted to transfer complete risk on one party who trade financial markets, manage negative moods of clients, who call at straight 9 AM just at start of market without making due and complete settlement payments. 
 - This led to our strict policy of **NO SETTLEMENTS, NO TRADING.**
