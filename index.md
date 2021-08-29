@@ -143,7 +143,7 @@ _Financial Modelling and Product Development  research project is an example of 
  - No verbosity. 
  - Just short and lucid invitation in form of two pages. 
  - Even the tag names evolved as we finalized product over the days. 
-11. This financial project was named PROFITCHAIN in the end, matching the _public ledger verification design_ postulates of **BLOCKCHAIN** in concept, its four pillars being - Distributed, Immutable, Encrypted, Transparent/Trusted (**DIET**). 
+11. This financial project was matched the _public ledger verification design_ postulates of **BLOCKCHAIN** in concept, its four pillars being - Distributed, Immutable, Encrypted, Transparent/Trusted (**DIET**). 
 - Profitchain website showed trades under these fundamentals. 
 12. Lot of viewers, investors, traders joined whatsapp groups, telegram channel (even saw trades on instagram stories!) and stayed, due to **profitable** trades on Nifty Options and USDINR Forex Options on NSE using our self developed trading system. 
 13. Trades appeared in real time but they could only be opened using the daily password once the trading strategy was implemented by eligible partners. 
