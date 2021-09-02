@@ -228,6 +228,8 @@ Mind Map of website -> Links section!
 
 ![asb-2021-09-01-f-03](asb-2021-09-01-f-03.jpg)
 
+![asb-2021-09-02-f-01](asb-2021-09-02-f-01.jpg)
+
 ## Mind Mapping for Individual Capacity Enhancement
 
 ### How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?
