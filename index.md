@@ -8,7 +8,7 @@
    * [50-50 PROFIT SHARING INVESTMENT MODEL: A Case Study](#50-50-profit-sharing-investment-model-a-case-study)
       * [== OUR ORIGINAL UNDERSTANDING AND INSIGHTS ==](#-our-original-understanding-and-insights-)
    * [ARTIFICIAL INTELLIGENCE VIRTUAL MACHINE FRAMEWORK INTERNATIONAL PROJECT](#artificial-intelligence-virtual-machine-framework-international-project)
-   * [SAMADHAN Mind Maps](#samadhan-mind-maps)
+   * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
       * [How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?](#how-can-we-also-present-an-assessment-reportindex-showing-strengths-weaknesses-and-special-trends-of-a-human-mind-through-this-mapping)
@@ -200,25 +200,9 @@ Following are **links to my Mind Maps** of international project for artificial 
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
-## SAMADHAN Mind Maps
+## Women Safety and Empowerment
 
-- Dehradun based organisation with global reach, chaired by women safety activist Advocate Renu D Singh. 
-- Committed to Gender Justice and Human Rights. 
-
-Mind Map of website -> Links section!
-![Samadhan LINKS](rsmm.jpg)
-
-**Mind Maps of Meeting with Adv Renu Singh ji on 2021-08-25**
-
-![rsf-1](rsf-1.jpg)
-
-![rsf-2](rsf-2.jpg)
-
-![rsf-3](rsf-3.jpg)
-
-![rsf-4](rsf-4.jpg)
-
-![rsf-5](rsf-5.jpg)
+### [SAMADHAN Mind Maps](samadhan.md)
 
 ## Sanskrit
 
