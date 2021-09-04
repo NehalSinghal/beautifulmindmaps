@@ -14,10 +14,12 @@
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
       * [How/what way one can use this mapping for individual/organizational development/capacity building?](#howwhat-way-one-can-use-this-mapping-for-individualorganizational-developmentcapacity-building)
    * [Why Mind Maps cannot be copied?](#why-mind-maps-cannot-be-copied)
+   * [Quick Notes when Visual Facilitation by way of Paper Mind Map not possible ](quick-notes-when-visual-facilitation-by-way-of -paper-mind-map-not-possible)
 
 <!-- Added by: guest, at: Sat Aug 28 18:28:28 IST 2021 -->
 
 <!--te-->
+
 # **Beautiful Mind Maps**
 
 _"Beauty reflects Understanding"_
@@ -187,4 +189,9 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 `Knowledge Process in Mind Mapping Attempt 4, NO COPY, Own Creativity`
 ![Mind Map of Knowledge Process in Mind Mapping Attempt 4, No Copy, Own Creativity](kp-4.jpg)
 
+## Quick Notes when Visual Facilitation by way of Paper Mind Map not possible 
+
+Let's take presentation instance of my hobby [**Cooking**](cooking.md). The maintenance of file is simple, with date detailing and quick abbreviations to illustrate that a particular recipe is being prepared first time. 
+
+This is also Mind Map in linear fashion on phone when paper visual facilitation is not possible for quick notes on hand held device. 
 
