@@ -222,6 +222,10 @@ Mind Map of website -> Links section!
 
 ## Ashtadhyayi Sahajbodh Mind Maps
 
+- [ ] [Ashtadhyayi Sahajbodh Sarvdhatuk Khand](https://archive.org/details/wg849)
+- Ashtadhyayi Sanskrit Grammar given by Maharishi Panini. 
+- Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras. 
+
 ![asb-2021-09-01-f-01](asb-2021-09-01-f-01.jpg)
 
 ![asb-2021-09-01-f-02](asb-2021-09-01-f-02.jpg)
