@@ -304,4 +304,15 @@ Lemon pickle MFT
 
 Mixed and bottled in glass jar. 
 
- 
+###  2021-09-03
+
+Raw Bananas Potato (gravy) curry MFT
+
+    - 3 bananas
+    - 3 potatoes
+    - Onion, tomato, garlic, ginger grinded
+    - Chhaunk spices, less ghee used 
+    - 5 whistles in pressure cooker on low flame
+    
+    
+    
