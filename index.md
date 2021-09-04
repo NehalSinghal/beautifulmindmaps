@@ -14,7 +14,7 @@
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
       * [How/what way one can use this mapping for individual/organizational development/capacity building?](#howwhat-way-one-can-use-this-mapping-for-individualorganizational-developmentcapacity-building)
    * [Why Mind Maps cannot be copied?](#why-mind-maps-cannot-be-copied)
-   * [Quick Notes when Visual Facilitation by way of Paper Mind Map not possible](quick-notes-when-visual-facilitation-by-way-of -paper-mind-map-not-possible)
+   * [Quick Notes when Visual Facilitation by way of Paper Mind Map not possible](quick-notes-when-visual-facilitation-by-way-of-paper-mind-map-not-possible)
 
 <!-- Added by: guest, at: Sat Aug 28 18:28:28 IST 2021 -->
 
