@@ -20,7 +20,7 @@
 
 <!--te-->
 
-# **Beautiful Mind Maps**
+# Beautiful Mind Maps
 
 _"Beauty reflects Understanding"_
 
