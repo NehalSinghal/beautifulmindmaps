@@ -93,7 +93,7 @@ Mango barfi MFT Self invention
  9. After few minutes use knife to give diamond shape before refrigerating. 
 10. Taste after sometime. 
 
-Tomorrow make using chasni as seen and learned. 
+Tomorrow make using chaashni as seen and learned. 
 
 ### 2020-08-20
 
@@ -150,7 +150,7 @@ Added a pinch of salt while kneading dough to make process it soft in no time.
 
 I have seen the results, this is true that adding a pinch of salt makes the kneading process smoother and easier. 
 
-Note - For best results use the  kneaded dough instantly. Do not keep it for later. Incase you keep it for later slightly dough it again with lukewarm water. 
+Note - For best results use the  kneaded dough instantly. Do not keep it for later. Incase you keep it for later slightly knead it again with lukewarm water. 
 
 ### 2020-12-26
 
@@ -192,7 +192,7 @@ Ingredients:
 
 Made exactly as it is made. 
 
-Had put some soya in Chaunk too. 
+Had put some soya in Chhaunk too. 
 
 ### 2021-02-24
 
@@ -266,18 +266,18 @@ Aloo Bottle guard Onion Capsicum curry (gravy) MFT
   - Constraint: No tomatoes
   - No garlic used. 
   - 3 potatoes, 1 onion, 1 capsicum, a big piece of bottle guard
-  - Chaunk: Jeera, Methi seeds, Saunf, Heeng 
+  - Chhaunk: Jeera, Methi seeds, Saunf, Heeng 
 
 ### 2021-06-30
 
-Choley in cooker in one go MFT
+Chholey in cooker in one go MFT
 
-  - Chaunk in cooker first: Saunf, Heeng, Methi seeds, Dhaniya, Rai, Jeera, Tomato Onion Garlic paste
-  - Add whole day soaked Choley
+  - Chhaunk in cooker first: Saunf, Heeng, Methi seeds, Dhaniya, Rai, Jeera, Tomato Onion Garlic paste
+  - Add whole day soaked Chholey
   - Cook on low flame (5 whistles. I took remaining 2 whistles on high flame due to time shortage) 
   
 
-And it's made! Boiling, Chaunk, etc need not be in different steps. Heavenly taste! 
+And it's made! Boiling, Chhaunk, etc need not be in different steps. Heavenly taste! 
 
 ### 2021-07-14
 
