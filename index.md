@@ -9,7 +9,7 @@
       * [== OUR ORIGINAL UNDERSTANDING AND INSIGHTS ==](#-our-original-understanding-and-insights-)
    * [ARTIFICIAL INTELLIGENCE VIRTUAL MACHINE FRAMEWORK INTERNATIONAL PROJECT](#artificial-intelligence-virtual-machine-framework-international-project)
    * [SAMADHAN Mind Maps](#samadhan-mind-maps)
-   * [Ashtadhyayi Sahajbodh Mind Maps](#ashtadhyayi-sahajbodh-mind-maps)
+   * [Sanskrit](#sanskrit)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
       * [How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?](#how-can-we-also-present-an-assessment-reportindex-showing-strengths-weaknesses-and-special-trends-of-a-human-mind-through-this-mapping)
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
@@ -220,19 +220,9 @@ Mind Map of website -> Links section!
 
 ![rsf-5](rsf-5.jpg)
 
-## Ashtadhyayi Sahajbodh Mind Maps
+## Sanskrit
 
-- [ ] [Ashtadhyayi Sahajbodh Sarvdhatuk Khand](https://archive.org/details/wg849)
-- Ashtadhyayi Sanskrit Grammar given by Maharishi Panini. 
-- Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras. 
-
-![asb-2021-09-01-f-01](asb-2021-09-01-f-01.jpg)
-
-![asb-2021-09-01-f-02](asb-2021-09-01-f-02.jpg)
-
-![asb-2021-09-01-f-03](asb-2021-09-01-f-03.jpg)
-
-![asb-2021-09-02-f-01](asb-2021-09-02-f-01.jpg)
+### [Ashtadhyayi Sahajbodh Mind Maps](asb.md)
 
 ## Mind Mapping for Individual Capacity Enhancement
 
