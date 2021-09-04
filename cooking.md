@@ -308,11 +308,11 @@ Mixed and bottled in glass jar.
 
 Raw Bananas Potato (gravy) curry MFT
 
-    - 3 bananas
-    - 3 potatoes
-    - Onion, tomato, garlic, ginger grinded
-    - Chhaunk spices, less ghee used 
-    - 5 whistles in pressure cooker on low flame
+- 3 bananas
+- 3 potatoes
+- Onion, tomato, garlic, ginger grinded
+- Chhaunk spices, less ghee used 
+- 5 whistles in pressure cooker on low flame
     
     
     
