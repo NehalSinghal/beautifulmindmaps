@@ -9,6 +9,8 @@
    * [Artificial Intelligence Virtual Machine Framework International Project](#artificial-intelligence-virtual-machine-framework-international-project)
    * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
+      * [Ashtadhyayi Sahajbodh Mind Maps](#ashtadhyayi-sahajbodh-mind-maps)
+      * [Kaalbodhini](#kaalbodhini)
    * [BhagavadGita](#bhagavadgita)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
       * [How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?](#how-can-we-also-present-an-assessment-reportindex-showing-strengths-weaknesses-and-special-trends-of-a-human-mind-through-this-mapping)
