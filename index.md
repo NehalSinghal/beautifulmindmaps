@@ -209,4 +209,4 @@ This is also Mind Map in linear fashion on phone when paper visual facilitation 
 
 ## Workshops
 
-[Workshops](https://nehalsinghal.github.io/workshop-formats/) for Students, Professionals and Organisations available. 
+[**Workshops**](https://nehalsinghal.github.io/workshop-formats/) for Students, Professionals and Organisations available. 
