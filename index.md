@@ -9,12 +9,14 @@
    * [Artificial Intelligence Virtual Machine Framework International Project](#artificial-intelligence-virtual-machine-framework-international-project)
    * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
+   * [BhagavadGita](#bhagavadgita)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
       * [How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?](#how-can-we-also-present-an-assessment-reportindex-showing-strengths-weaknesses-and-special-trends-of-a-human-mind-through-this-mapping)
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
       * [How/what way one can use this mapping for individual/organizational development/capacity building?](#howwhat-way-one-can-use-this-mapping-for-individualorganizational-developmentcapacity-building)
    * [Why Mind Maps cannot be copied?](#why-mind-maps-cannot-be-copied)
    * [Quick Notes when Visual Facilitation by way of Paper Mind Map not possible](#quick-notes-when-visual-facilitation-by-way-of-paper-mind-map-not-possible)
+   * [Workshops](#workshops)
 
 <!-- Added by: guest, at: Sat Aug 28 18:28:28 IST 2021 -->
 
@@ -139,6 +141,11 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ### [Ashtadhyayi Sahajbodh Mind Maps](asb.md)
 
+## BhagavadGita
+
+- [ ] Mind Maps to follow soon. 
+- [x] [Gita for Women page](https://github.com/NehalSinghal/gitaforwomen/wiki) with Podcast links. 
+
 ## Mind Mapping for Individual Capacity Enhancement
 
 ### How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?
@@ -200,3 +207,6 @@ Let us take presentation instance of my hobby [**Cooking**](cooking.md). The mai
 
 This is also Mind Map in linear fashion on phone when paper visual facilitation is not possible for instant notes on hand held device. 
 
+## Workshops
+
+[Workshops](../workshop-formats/index.md) for Students, Professionals and Organisations available. 
