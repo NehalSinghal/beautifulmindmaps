@@ -140,6 +140,11 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
   
 ## Sanskrit
 
+> Among the accomplishments of the grammarians can be reckoned a method for paraphrasing Sanskrit in a manner that is identical not only in essence but in form with current work in Artificial Intelligence. This article demonstrates that a natural language can serve as an artificial language also, and that much work in AI has been reinventing a wheel millenia old.  [Source](https://ojs.aaai.org//index.php/aimagazine/article/view/466)
+
+![computational-linguistics](computational-linguistics.jpg)
+[Image Source](https://ieeexplore.ieee.org/abstract/document/7724257?reload=true)
+
 ### [Ashtadhyayi Sahajbodh Mind Maps](asb.md)
 
 ### [Kaalbodhini](https://nehalsinghal.github.io/kaalbodhini/)
