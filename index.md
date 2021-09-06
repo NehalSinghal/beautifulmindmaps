@@ -28,7 +28,7 @@
 
 ### _"Beauty reflects Understanding"_
 
-#### Knowledge Process Management using Mind Maps 
+#### <p align="center">Knowledge Process Management using Mind Maps</p>
 
 <span style='color:#0000ff;'>**Unified view**</span> **of** <span style='color:#0000ff;'>**Aesthetics**</span> **&** <span style='color:#0000ff;'>**Logic**</span> **and of** <span style='color:#ff0000;'>**Art**</span> **&** <span style='color:#1f7c00;'>**Science**</span>
 
