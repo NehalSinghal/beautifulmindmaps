@@ -95,7 +95,7 @@ Mind Mapping in this aspect is a proven technique, in our experience that uses K
 
 ## VALUE MOTIVATES DIRECTLY
 
-- `Motivating people is an external aim. We rather focus on internal self as per Bhagavat Gita 5.11.`
+> Motivating people is an external aim. We rather focus on internal self as per Bhagavat Gita 5.11.
 
 People may take notice of Mind Maps incidentally and take initiative to learn. This is uncertain. Therefore we don't aim for it.
 
