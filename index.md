@@ -18,7 +18,7 @@
       * [How Mind Maps can reveal and show strengths, weaknesses and special trends of an individual?](#how-mind-maps-can-reveal-and-show-strengths-weaknesses-and-special-trends-of-an-individual?)
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
       * [In depth view of using Mind Mapping for individual/organizational capacity enhancement.](#in-depth-view-of-using-mind-mapping-for-individual/organizational-capacity-enhancement.)
-   * [Why Mind Maps cannot be copied?](#why-mind-maps-cannot-be-copied)
+   * [Why copying Mind Maps is a bad idea!](#why-copying-mind-maps-is-a-bad-idea!)
   * [Quick Notes when Visual Facilitation by way of Paper Mind Map not possible](#quick-notes-when-visual-facilitation-by-way-of-paper-mind-map-not-possible)
   * [WORKSHOPS](#workshops)
   
@@ -180,7 +180,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ![bmmc](bmmc.jpg)
 
-## Why Mind Maps cannot be copied? 
+## Why copying Mind Maps is a bad idea! 
 
 1. **Non transferability of experience.** Because copied mind maps are not beautiful.
 2. **Necessity of experiment.** Because evolution of understanding, hence that of mind map is unpredictable.
