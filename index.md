@@ -151,7 +151,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ## Mind Mapping for Individual Capacity Enhancement
 
-### How can we also present an assessment report/index showing strengths, weaknesses and special trends of a human mind through this mapping?
+### How Mind Maps can reveal and show strengths, weaknesses and special trends of an individual?
 
 1. To bring objectivity to an inherently subjective domain of Mind Mapping. No benchmarking possible because of inherent subjectivity.
 2. Growth of mind can be measured individually, in terms of evolution of Mind Map quality over a period of time. 
@@ -169,7 +169,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ## Mind Mapping for Organizational Capacity Enhancement
 
-### How/what way one can use this mapping for individual/organizational development/capacity building?
+### In depth view of using Mind Mapping for individual/organizational capacity enhancement.
 
 1. Organization can be seen in two different levels, Individual and Collective. Individual capacity enhancement is covered above. 
 2. Collective capacity enhancement by building and strengthening of team spirit. 
