@@ -20,7 +20,7 @@
       * [How/what way one can use this mapping for individual/organizational development/capacity building?](#howwhat-way-one-can-use-this-mapping-for-individualorganizational-developmentcapacity-building)
    * [Why Mind Maps cannot be copied?](#why-mind-maps-cannot-be-copied)
   * [Quick Notes when Visual Facilitation by way of Paper Mind Map not possible](#quick-notes-when-visual-facilitation-by-way-of-paper-mind-map-not-possible)
-  * [Workshops](#workshops)
+  * [WORKSHOPS](#workshops)
   
 <!-- Added by: guest, at: Sat Aug 28 18:28:28 IST 2021 -->
 
@@ -28,10 +28,10 @@
 
 ### _"Beauty reflects Understanding"_
 
-### Knowledge Process Management using Mind Maps 
+#### Knowledge Process Management using Mind Maps 
 
 
-### <span style='color:#0000ff;'>**Unified view**</span> **of** <span style='color:#0000ff;'>**Aesthetics**</span> **&** <span style='color:#0000ff;'>**Logic**</span> **and of** <span style='color:#ff0000;'>**Art**</span> **&** <span style='color:#1f7c00;'>**Science**</span>
+#### <span style='color:#0000ff;'>**Unified view**</span> **of** <span style='color:#0000ff;'>**Aesthetics**</span> **&** <span style='color:#0000ff;'>**Logic**</span> **and of** <span style='color:#ff0000;'>**Art**</span> **&** <span style='color:#1f7c00;'>**Science**</span>
 
 ## Beauty _is_ Understanding
 
@@ -211,6 +211,6 @@ Let us take presentation instance of my hobby [**Cooking**](cooking.md). The mai
 
 This is also Mind Map in linear fashion on phone when paper visual facilitation is not possible for instant notes on hand held device. 
 
-## Workshops
+## WORKSHOPS
 
-[**Workshops**](https://nehalsinghal.github.io/workshops/) for Students, Professionals and Organisations available. 
+[**WORKSHOPS**](https://nehalsinghal.github.io/workshops/) for Students, Professionals and Organisations available. 
