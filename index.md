@@ -28,7 +28,7 @@
 
 ### _"Beauty reflects Understanding"_
 
-#### <p align="center">Knowledge Process Management using Mind Maps</p>
+#### Knowledge Process Management using Mind Maps
 
 <span style='color:#0000ff;'>**Unified view**</span> **of** <span style='color:#0000ff;'>**Aesthetics**</span> **&** <span style='color:#0000ff;'>**Logic**</span> **and of** <span style='color:#ff0000;'>**Art**</span> **&** <span style='color:#1f7c00;'>**Science**</span>
 
@@ -136,7 +136,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 ### Complete Woman is Empowered Woman
 
   - Even this website sets an example that someone who is active in Finance, Artificial Intelligence, Sanskrit is as much into Cooking and other creative tasks that are considered domestic (in a bad taste, ugh! :(). 
-  - Art & Science, Aesthetics & Logic thus proved (by example case studies on this website). 
+  - Unified View of Art & Science, Aesthetics & Logic thus proved (by example case studies on this website). 
   
 ## Sanskrit
 
