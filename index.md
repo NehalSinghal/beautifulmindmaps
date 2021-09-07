@@ -143,7 +143,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 ![computational-linguistics](computational-linguistics.jpg)
 [Image Source](https://ieeexplore.ieee.org/abstract/document/7724257?reload=true)
 
-### [Ashtadhyayi Sahajbodh Mind Maps](asb.md)
+### [Ashtadhyayi Sahajbodh Mind Maps](https://nehalsinghal.github.io/ashtadhyayi/)
 
 ### [Kaalbodhini](https://nehalsinghal.github.io/kaalbodhini/)
 
