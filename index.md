@@ -209,7 +209,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ## Quick Notes when Visual Facilitation by way of Paper Mind Map not possible 
 
-Let us take presentation instance of my hobby [**Cooking**](cooking.md). The maintenance of file is simple, with date detailing and quick abbreviations to illustrate that a particular recipe is being prepared first time. 
+Let us take presentation instance of my hobby [**Cooking**](https://nehalsinghal.github.io/cooking/). The maintenance of file is simple, with date detailing and quick abbreviations to illustrate that a particular recipe is being prepared first time. 
 
 This is also Mind Map in linear fashion on phone when paper visual facilitation is not possible for instant notes on hand held device. 
 
