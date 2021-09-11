@@ -124,6 +124,7 @@ Following are **links to my Mind Maps** of international project for artificial 
 
 1. [Beautiful and Lucid Mind Maps](https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps)
 2. [Pilcon Mind Maps](https://picolisp.com/wiki/?pilcon-mindmaps)
+3. [Own PicoLisp Page for Mind Maps, Knowledge Process, Insights and more!](https://nehalsinghal.github.io/picolisp/)
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
@@ -189,7 +190,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 2. **Necessity of experiment.** Because evolution of understanding, hence that of mind map is unpredictable.
 3. **Beauty is resonance with self.** When one understands one sees beauty in it. Both beauty and understanding are subjective, they depend on the person. Understanding depends on mind, beauty lies in the eyes of beholder.
 4. **Role of facilitator is only to initiate.** 
-    
+
 **Let us see why mind maps cannot be copied in the following example:** 
 
 `Original`
