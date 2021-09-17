@@ -124,7 +124,7 @@ Following are **links to my Mind Maps** of international project for artificial 
 
 1. [Beautiful and Lucid Mind Maps](https://picolisp.com/wiki/?beautiful-and-lucid-mindmaps)
 2. [Pilcon Mind Maps](https://picolisp.com/wiki/?pilcon-mindmaps)
-3. [Own PicoLisp Page for Mind Maps, Knowledge Process, Insights and more!](https://nehalsinghal.github.io/picolisp/)
+3. [Own PicoLisp Page for Mind Maps, Knowledge Process, Insights and more!](https://nehalsin.github.io/picolisp/)
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
 
@@ -144,13 +144,13 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 ![computational-linguistics](computational-linguistics.jpg)
 [Image Source](https://ieeexplore.ieee.org/abstract/document/7724257?reload=true)
 
-### [Ashtadhyayi Sahajbodh Mind Maps](https://nehalsinghal.github.io/ashtadhyayi/)
+### [Ashtadhyayi Sahajbodh Mind Maps](https://nehalsin.github.io/ashtadhyayi/)
 
-### [Kaalbodhini](https://nehalsinghal.github.io/kaalbodhini/)
+### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
 
 ## BhagavadGita
 
-- [x] [Gita for Women page](https://github.com/NehalSinghal/gitaforwomen/wiki) with Podcast links. 
+- [x] [Gita for Women page](https://github.com/nehalsin/gitaforwomen/wiki) with Podcast links. 
 
 
 ## Mind Mapping for Individual Capacity Enhancement
@@ -210,10 +210,10 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ## Quick Notes when Visual Facilitation by way of Paper Mind Map not possible 
 
-Let us take presentation instance of my hobby [**Cooking**](https://nehalsinghal.github.io/cooking/). The maintenance of file is simple, with date detailing and quick abbreviations to illustrate that a particular recipe is being prepared first time. 
+Let us take presentation instance of my hobby [**Cooking**](https://nehalsin.github.io/cooking/). The maintenance of file is simple, with date detailing and quick abbreviations to illustrate that a particular recipe is being prepared first time. 
 
 This is also Mind Map in linear fashion on phone when paper visual facilitation is not possible for instant notes on hand held device. 
 
 ## WORKSHOPS
 
-[**WORKSHOPS**](https://nehalsinghal.github.io/workshops/) for Students, Professionals and Organisations available. 
+[**WORKSHOPS**](https://nehalsin.github.io/workshops/) for Students, Professionals and Organisations available. 
