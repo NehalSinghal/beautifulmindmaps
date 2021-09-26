@@ -11,7 +11,7 @@
    * [Artificial Intelligence Virtual Machine Framework International Project](#artificial-intelligence-virtual-machine-framework-international-project)
    * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
-       * [Ashtadhyayi Sahajbodh Mind Maps](#ashtadhyayi-sahajbodh-mind-maps)
+       * [Ashtadhyayi](#ashtadhyayi)
        * [Kaalbodhini](#kaalbodhini)
    * [BhagavadGita](#bhagavadgita)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
@@ -144,7 +144,11 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 ![computational-linguistics](computational-linguistics.jpg)
 [Image Source](https://ieeexplore.ieee.org/abstract/document/7724257?reload=true)
 
-### [Ashtadhyayi Sahajbodh Mind Maps](https://nehalsin.github.io/ashtadhyayi/)
+### Ashtadhyayi
+
+#### [Ashtadhyayi Sahajbodh 1](https://nehalsin.github.io/ashtadhyayi/)
+
+#### [Ashtadhyayi Sahajbodh 2](https://nehalsin.github.io/ashtadhyayi-sahajbodh-2/)
 
 ### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
 
