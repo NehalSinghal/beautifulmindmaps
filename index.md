@@ -150,6 +150,8 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 #### [Ashtadhyayi Sahajbodh 2](https://nehalsin.github.io/ashtadhyayi-sahajbodh-2/)
 
+#### [Ashtadhyayi Sahajbodh 3](https://nehalsin.github.io/ashtadhyayi-sahajbodh-3/)
+
 ### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
 
 ## BhagavadGita
