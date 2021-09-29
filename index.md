@@ -146,6 +146,9 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ### Ashtadhyayi
 
+- Ashtadhyayi Sanskrit Grammar given by [Maharishi Panini](https://en.m.wikipedia.org/wiki/P%C4%81%E1%B9%87ini). 
+- Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras.
+
 #### [Ashtadhyayi Sahajbodh 1](https://nehalsin.github.io/ashtadhyayi/)
 
 #### [Ashtadhyayi Sahajbodh 2](https://nehalsin.github.io/ashtadhyayi-sahajbodh-2/)
