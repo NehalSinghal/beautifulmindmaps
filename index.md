@@ -6,8 +6,6 @@
    * [Visual Facilitation as presentation instance of Mind Mapping](#visual-facilitation-as-presentation-instance-of-mind-mapping)
    * [Better Understanding through Mind Mapping](#better-understanding-through-mind-mapping)
    * [Build UNDERSTANDING and INSIGHTS with Mind Mapping](#build-understanding-and-insights-with-mind-mapping)
-   * [VALUE MOTIVATES DIRECTLY](#value-motivates-directly)
-   * [Finance](#finance)
    * [Artificial Intelligence Virtual Machine Framework International Project](#artificial-intelligence-virtual-machine-framework-international-project)
    * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
@@ -91,30 +89,9 @@ Mind Mapping in this aspect is a proven technique, in our experience that uses K
     - Mind Mapping can be automated but not thinking/understanding by human brain.
     - Mind Maps aid enhanced depth building as INSIGHTS in any domain.
 
-## VALUE MOTIVATES DIRECTLY
-
-> Motivating people is an external aim. We rather focus on internal self as per Bhagavat Gita 5.11.
-
-People may take notice of Mind Maps incidentally and take initiative to learn. This is uncertain. Therefore we don't aim for it.
-
-This approach is similar to our time tested **financial risk management**, where we _don't invest_ in _uncertainty_.
-
-Rather all we do is to **eliminate risk**. 
-This may sound contrary to popular notion of **No Risk No Gain**, however we have practically eliminated risk by bringing it to mere slippage level as in our financial innovative model of **profit sharing**.
-
-Our path breaking financial investment model development research is based on innovative use of **Mind Maps** all the way from _brain storming_ to _evolution_ of the model (initial about 60 A4 sized sheets) to _presentation_ (1 Chart) to _prospective clients_ (just two pages!), whom we view as **equal partners** rather than mere investors.
-
-**Quality performance** as evident by financial profits does marketing on its own.
-
-**Merit needs no marketing.**
-
-## Finance
-
-### [50-50 PROFIT SHARING INVESTMENT MODEL: A Case Study](fin.md)
-
 ## Artificial Intelligence Virtual Machine Framework International Project
 
-Just as in Financial Modelling Product Development mentioned elsewhere, innovative use of Mind Mapping by us in the field of Lisp education and use are visible on web which have received wide international appreciation. 
+Innovative use of Mind Mapping by us in the field of Lisp education and use are visible on web which have received wide international appreciation. 
 
 PicoLisp is the marvel dialect of Lisp, the primary language for Artificial Intelligence.
 
@@ -134,7 +111,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ### Complete Woman is Empowered Woman
 
-  - Even this website sets an example that someone who is active in Finance, Artificial Intelligence, Sanskrit is as much into Cooking and other creative tasks that are considered domestic (in a bad taste, ugh! :(). 
+  - Even this website sets an example that someone who is active in Artificial Intelligence, Sanskrit is as much into Cooking and other creative tasks that are considered domestic (in a bad taste, ugh! :(). 
   - Unified View of Art & Science, Aesthetics & Logic thus proved (by example case studies on this website). 
   
 ## Sanskrit
