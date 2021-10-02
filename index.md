@@ -141,13 +141,11 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 > Among the accomplishments of the grammarians can be reckoned a method for paraphrasing Sanskrit in a manner that is identical not only in essence but in form with current work in Artificial Intelligence. This article demonstrates that a natural language can serve as an artificial language also, and that much work in AI has been reinventing a wheel millenia old.  [Source](https://ojs.aaai.org//index.php/aimagazine/article/view/466)
 
-![computational-linguistics](computational-linguistics.jpg)
-[Image Source](https://ieeexplore.ieee.org/abstract/document/7724257?reload=true)
-
 ### Ashtadhyayi
 
 - Ashtadhyayi Sanskrit Grammar given by [Maharishi Panini](https://en.m.wikipedia.org/wiki/P%C4%81%E1%B9%87ini). 
 - Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras.
+- Novel approach to the Paninian Sanskrit Grammar by [Mahamahopadhyaya Acharya Smt Pushpa Dikshit](http://www.pushpadikshit.com) presented as Ashtadhyayi Sahajbodh a three volume set of books.
 
 #### [Ashtadhyayi Sahajbodh 1](https://nehalsin.github.io/ashtadhyayi-sahajbodh-1/)
 
