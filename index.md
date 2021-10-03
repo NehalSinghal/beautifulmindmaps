@@ -11,7 +11,7 @@
    * [Sanskrit](#sanskrit)
        * [Ashtadhyayi](#ashtadhyayi)
        * [Kaalbodhini](#kaalbodhini)
-       * [Class 6 Sanskrit Surabhih](#class-6-sanskrit-surabhih)
+       * [Class 6 Sanskrit Surabhi](#class-6-sanskrit-surabhi)
    * [BhagavadGita](#bhagavadgita)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
@@ -133,7 +133,7 @@ I am making Mind Maps to help **ease** understanding of fundamental computer sci
 
 ### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
 
-### [Class 6 Sanskrit Surabhih](c6s_surabhih.md)
+### [Class 6 Sanskrit Surabhi](c6s_surabhi.md)
 
 ## BhagavadGita
 
