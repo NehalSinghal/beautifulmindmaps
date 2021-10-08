@@ -7,6 +7,7 @@
    * [Better Understanding through Mind Mapping](#better-understanding-through-mind-mapping)
    * [Build UNDERSTANDING and INSIGHTS with Mind Mapping](#build-understanding-and-insights-with-mind-mapping)
    * [Artificial Intelligence Virtual Machine Framework International Project](#artificial-intelligence-virtual-machine-framework-international-project)
+   * [R Data Table](#r-data-table)
    * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
        * [Ashtadhyayi](#ashtadhyayi)
@@ -105,6 +106,16 @@ Following are **links to my Mind Maps** of international project for artificial 
 3. [Own PicoLisp Page for Mind Maps, Knowledge Process, Insights and more!](https://nehalsin.github.io/picolisp/)
 
 I am making Mind Maps to help **ease** understanding of fundamental computer science concepts in a novel manner in this Germany based international project.
+
+## R Data Table
+
+Understanding [Knowledge Process through R Data Table](rdt.md) Case Study using Mind Mapping technique as real life example. 
+
+Illustrates: 
+
+- R Data Table in practical implementation
+- Iterations over A4 Sheets' Mind Maps
+- Soft Copy Mind Maps' iterations and importance of Factorization 
 
 ## Women Safety and Empowerment
 
