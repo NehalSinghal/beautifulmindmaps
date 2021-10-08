@@ -1,6 +1,6 @@
 # R Data Table
 
-- [R](https://www.r-project.org/about.html) is programming language and free software environment for Statistical Computing and Data Analysis used by data miners and staticians.
+- [R](https://www.r-project.org/about.html) is programming language and free software environment for Statistical Computing and Data Analysis used by data miners and statisticians.
 - [Data Table (data.table\)](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) is highly useful for Data Manipulation operations. 
 
 **R Data Table Case Study Text**
