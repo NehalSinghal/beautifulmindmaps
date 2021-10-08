@@ -1,6 +1,6 @@
 # Class 6 Sanskrit Surabhi
 
-Book URL: [http://deorajnandgaon.cg.nic.in/students/books/class_6/class_6_Sanskrit.pdf](http://deorajnandgaon.cg.nic.in/students/books/class_6/class_6_Sanskrit.pdf)
+Chattisgarh State Board Class 6 Book URL: [http://deorajnandgaon.cg.nic.in/students/books/class_6/class_6_Sanskrit.pdf](http://deorajnandgaon.cg.nic.in/students/books/class_6/class_6_Sanskrit.pdf)
 
 
 ![c6s-surabhih_2021-10-02_1](c6s-surabhih_2021-10-02_1.jpg)
