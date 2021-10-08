@@ -211,7 +211,7 @@ One Mind Map and rest information being processed by mind for better depiction w
 
 ## Soft Copy Mind Maps 
 
-### Complex Initially
+### Complex Before
 
 ![rdtmapkp4AllinOne](rdtmapkp4AllinOne.png)
 
