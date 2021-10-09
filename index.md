@@ -142,6 +142,8 @@ Illustrates:
 
 #### [Ashtadhyayi Sahajbodh 3](https://nehalsin.github.io/ashtadhyayi-sahajbodh-3/)
 
+#### [Ashtadhyayi Sahajbodh Abbreviations](asbabbr.md)
+
 ### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
 
 ### [Class 6 Sanskrit Surabhi](c6s_surabhi.md)
