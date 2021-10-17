@@ -1,24 +1,24 @@
-# Ashtadhyayi Sahajbodh Abbreviations 
+# अष्टाध्यायी सहजबोध लघुरूपाणि (Ashtadhyayi Sahajbodh Abbreviations) 
 
-- Self defined for simplicity
+- सरलीकरण हेतु स्वपरिभाषित (Self defined for simplicity)
 
-### 2021-10-09
+### २०२१-१०-०९
 
 ![asbabbr-2021-10-09-1](asbabbr-2021-10-09-1.jpg)
 
-### 2021-10-10
+### २०२१-१०-१०
 
 ![asbabbr-2021-10-10-1](asbabbr-2021-10-10-1.jpg)
 
-### 2021-10-11
+### २०२१-१०-११
 
 ![asbabbr-2021-10-11-1](asbabbr-2021-10-11-1.jpg)
 
-### 2021-10-13
+### २०२१-१०-१३
 
 ![asbabbr-2021-10-13-1](asbabbr-2021-10-13-1.jpg)
 
-### 2021-10-17
+### २०२१-१०-१७
 
 ![asbabbr-2021-10-17-1](asbabbr-2021-10-17-1.jpg)
 
