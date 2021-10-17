@@ -18,6 +18,10 @@
 
 ![asbabbr-2021-10-13-1](asbabbr-2021-10-13-1.jpg)
 
+### 2021-10-17
+
+![asbabbr-2021-10-17-1](asbabbr-2021-10-17-1.jpg)
+
 ## Conventions 
 
 - Clockwise direction of Mind Maps from 2021-10-11. 
