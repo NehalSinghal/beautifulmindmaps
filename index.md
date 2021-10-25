@@ -14,7 +14,7 @@
        * [Class 6 Sanskrit Surabhi](#class-6-sanskrit-surabhi)
    * [Panini Ashtadhyayi](#panini-ashtadhyayi)
        * [Ashtadhyayi Sahajbodh](#ashtadhyayi-sahajbodh)
-       * [Laghu Paniniam](#laghu-paniniam)
+       * [LaghuPaniniam](#laghupaniniam)
    * [BhagavadGita](#bhagavadgita)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
@@ -153,7 +153,7 @@ Illustrates:
 
 #### [Ashtadhyayi Sahajbodh Abbreviations](asbabbr.md)
 
-### [Laghu Paniniam](https://nehalsin.github.io/laghupaniniam/)
+### [LaghuPaniniam](https://nehalsin.github.io/laghupaniniam/)
 
 ## BhagavadGita
 
