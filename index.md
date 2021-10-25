@@ -10,9 +10,11 @@
    * [R Data Table](#r-data-table)
    * [Women Safety and Empowerment](#women-safety-and-empowerment)
    * [Sanskrit](#sanskrit)
-       * [Ashtadhyayi](#ashtadhyayi)
        * [Kaalbodhini](#kaalbodhini)
        * [Class 6 Sanskrit Surabhi](#class-6-sanskrit-surabhi)
+   * [Ashtadhyayi](#ashtadhyayi)
+       * [Ashtadhyayi Sahajbodh](#ashtadhyayi-sahajbodh)
+       * [Laghu Paniniam](#laghu-paniniam)
    * [BhagavadGita](#bhagavadgita)
    * [Mind Mapping for Individual Capacity Enhancement](#mind-mapping-for-individual-capacity-enhancement)
    * [Mind Mapping for Organizational Capacity Enhancement](#mind-mapping-for-organizational-capacity-enhancement)
@@ -130,11 +132,17 @@ Illustrates:
 
 > Among the accomplishments of the grammarians can be reckoned a method for paraphrasing Sanskrit in a manner that is identical not only in essence but in form with current work in Artificial Intelligence. This article demonstrates that a natural language can serve as an artificial language also, and that much work in AI has been reinventing a wheel millenia old.  [Source](https://ojs.aaai.org//index.php/aimagazine/article/view/466)
 
-### Ashtadhyayi
+### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
+
+### [Class 6 Sanskrit Surabhi](c6s_surabhi.md)
+
+## Panini Ashtadhyayi
 
 - Ashtadhyayi Sanskrit Grammar given by [Maharishi Panini](https://en.m.wikipedia.org/wiki/P%C4%81%E1%B9%87ini). 
 - Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras.
 - Novel approach to the Paninian Sanskrit Grammar by [Mahamahopadhyaya Acharya Smt Pushpa Dikshit](http://www.pushpadikshit.com) presented as Ashtadhyayi Sahajbodh a three volume set of books.
+
+### Ashtadhyayi Sahajbodh
 
 #### [Ashtadhyayi Sahajbodh 1](https://nehalsin.github.io/ashtadhyayi-sahajbodh-1/)
 
@@ -144,9 +152,7 @@ Illustrates:
 
 #### [Ashtadhyayi Sahajbodh Abbreviations](asbabbr.md)
 
-### [Kaalbodhini](https://nehalsin.github.io/kaalbodhini/)
-
-### [Class 6 Sanskrit Surabhi](c6s_surabhi.md)
+### [Laghu Paniniam](https://nehalsin.github.io/laghu-paniniam/)
 
 ## BhagavadGita
 
