@@ -12,7 +12,7 @@
    * [Sanskrit](#sanskrit)
        * [Kaalbodhini](#kaalbodhini)
        * [Class 6 Sanskrit Surabhi](#class-6-sanskrit-surabhi)
-   * [Ashtadhyayi](#ashtadhyayi)
+   * [Panini Ashtadhyayi](#panini-ashtadhyayi)
        * [Ashtadhyayi Sahajbodh](#ashtadhyayi-sahajbodh)
        * [Laghu Paniniam](#laghu-paniniam)
    * [BhagavadGita](#bhagavadgita)
