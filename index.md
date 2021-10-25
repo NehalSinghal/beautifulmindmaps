@@ -141,6 +141,7 @@ Illustrates:
 - Ashtadhyayi Sanskrit Grammar given by [Maharishi Panini](https://en.m.wikipedia.org/wiki/P%C4%81%E1%B9%87ini). 
 - Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras.
 - Novel approach to the Paninian Sanskrit Grammar by [Mahamahopadhyaya Acharya Smt Pushpa Dikshit](http://www.pushpadikshit.com) presented as Ashtadhyayi Sahajbodh a three volume set of books.
+- Laghu Paniniam, work by [A R Rajaraja Varma](http://www.stateofkerala.in/kerala_celebrities/a-r-rajaraja-varma.php), also known as the Kerala Panini. 
 
 ### Ashtadhyayi Sahajbodh
 
