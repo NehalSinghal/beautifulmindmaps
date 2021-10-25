@@ -153,7 +153,7 @@ Illustrates:
 
 #### [Ashtadhyayi Sahajbodh Abbreviations](asbabbr.md)
 
-### [Laghu Paniniam](https://nehalsin.github.io/laghu-paniniam/)
+### [Laghu Paniniam](https://nehalsin.github.io/laghupaniniam/)
 
 ## BhagavadGita
 
